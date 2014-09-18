@@ -10,7 +10,7 @@ body {
 }
 
 .data {
-	white-space: pre nowrap;
+	white-space: pre-wrap;
 }
 
 hr {
